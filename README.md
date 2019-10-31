@@ -7,7 +7,7 @@ Run the file by typing "./wolf3d" followed by either "test1" "test2" or "test3"
 
 Commands:
 
-'↑' and '↓' move rhe player forwards/backwards respectively
+'↑' and '↓' move the player forwards/backwards respectively
 
 '←' and '→' rotate the players view to the left or right respectively
 
